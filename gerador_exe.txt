@@ -1,0 +1,4 @@
+pyinstaller C:\Users\Tieppo\Desktop\PlacaDigitalEspo\totem.py --upx-dir C:\Users\Tieppo\Desktop\PlacaDigitalEspo\upx --noconsole --name="Totem" --icon="icon\Control_Panel.ico" --add-data="icon\Control_Panel.ico;." -F
+
+
+pyinstaller C:\Users\ricardo.martins\Desktop\Programação\PlacaDigitalExpo\totem.py --upx-dir C:\Users\ricardo.martins\Desktop\Programação\PlacaDigitalExpo\upx --noconsole --name="Totem" --icon="icon\Control_Panel.ico" --add-data="icon\Control_Panel.ico;." -F
