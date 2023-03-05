@@ -123,7 +123,7 @@ def tela_totem(users,filtro_pergunta,filtro_aviso,agenda_ge,agenda_au,cipa):
 
 def tela_popup_erro(texto):
     """
-    -> Monta o
+    -> Monta a tela de erro de acordo com o erro
 
     :param texto: Recebe informação do erro ocorrido
     :return: Janela de erro com a informação do erro
